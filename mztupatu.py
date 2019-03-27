@@ -1,4 +1,4 @@
-#Python学习群548377875
+
 import requests
 from bs4 import BeautifulSoup
 import os
