@@ -78,4 +78,3 @@ if __name__ == '__main__':
         url = start_url + "page/" + str(count) +"/"
         save_one_page(url)
     print("爬取完成")
-fhgfh
