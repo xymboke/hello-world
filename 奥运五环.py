@@ -11,7 +11,7 @@ for i in range(5):
     goto(posx.pop(),posy.pop())
     pendown()
     circle(r)
-
+print("hello world")
 
 
 
